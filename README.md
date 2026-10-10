@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b1abb262-ca41-4a4c-9458-b8097d73fb95" width="100" alt="Minimalist cat by a plant" />
+  <br><br>
+  <h3>hi, i'm serena. 🌿</h3>
+  <p><i>cs & stats @ ubc • making cozy & interactive things for the web</i></p>
+</div>
 
-<!--
-**aaneres/aaneres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**🪴 current state**  
+> **working:** it support analyst co-op @ bccnm  
+> **living:** training for the great trek 10k, reading dungeon crawler carl, & building animaldle  
+> **previously:** ubc biomod web dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**☕ tech stack**  
+> `typescript` `react` `tailwind` `astro` `python` `java` `c++` `sql` 
+
+<br>
