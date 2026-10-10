@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b1abb262-ca41-4a4c-9458-b8097d73fb95" width="100" alt="Minimalist cat by a plant" />
-  <h3>hi, i'm serena. 🌿</h3>
-  <p><i>cs & stats @ ubc • making cozy & interactive things for the web</i></p>
+  <h3>
+    <img src="https://github.com/user-attachments/assets/2ccbe5b0-6c2b-412e-83b9-0b534cd308a0" width="80" alt="Cat drinking cocoa" /><br>
+    hi, i'm serena. 🌿
+  </h3>
+  <p><i>cs & stats @ ubc • making cozy things for the web</i></p>
 </div>
 
 --- 
 
 **🪴 current state**  
 > **working:** it support analyst co-op @ bccnm  
-> **living:** training for the great trek 10k, reading dungeon crawler carl, & building animaldle  
-> **previously:** ubc biomod web dev
+> **living:** training for the great trek 10k || reading four thousand weeks & carl's doomsday scenario  
+> **building:** animaldle  
 
 
 **☕ tech stack**  
