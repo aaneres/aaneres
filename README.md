@@ -10,11 +10,11 @@
 
 **🪴 current state**  
 > **working:** it support analyst co-op @ bccnm  
-> **living:** training for the great trek 10k || reading four thousand weeks & carl's doomsday scenario  
+> **living:** training for the great trek 10k || reading educated & carl's doomsday scenario  
 > **building:** animaldle  
 
 
-**☕ tech stack**  
+**🐾 tech stack**  
 > `typescript` `react` `tailwind` `astro` `python` `java` `c++` `sql` 
 
 <br>
