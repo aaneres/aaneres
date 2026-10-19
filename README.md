@@ -10,7 +10,7 @@
 
 **🪴 current state**  
 > **working:** it support analyst co-op @ bccnm  
-> **living:** training for the great trek 10k || reading educated & carl's doomsday scenario  
+> **living:** training for the great trek 10k || reading are you mad at me? & carl's doomsday scenario  
 > **building:** animaldle  
 
 
